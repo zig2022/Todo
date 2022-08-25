@@ -18,7 +18,7 @@ export default class Home extends Component {
     render() {
         return (
             <div>
-                Happy Coding! {};
+                Fast job Alart! {};
            </div>
         )
     }
